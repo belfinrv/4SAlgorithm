@@ -62,4 +62,12 @@ Supported by The National Science Centre, Poland (project no. 2016/21/D/ST6/0240
 
 ![Community structure in Karate club dataset](4s3.png)
 
+![Community structure in Karate club dataset](4s3.png)
+
+![Community structure in Karate club dataset](4s3.png)
+
+### Cite this
+Belfin, R.V. , Grace Mary Kanaga E. and Bródka, P., 2018. Overlapping community detection using superior seed set selection in social networks. Computers & Electrical Engineering, 70, pp.1074-1083.
+
+
 
